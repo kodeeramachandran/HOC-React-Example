@@ -8,5 +8,4 @@ function TableRow(props) {
     </tr>
   );
 }
-
 export default TableRow;
